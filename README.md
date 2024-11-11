@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, Bro!</h1>
 <h3 align="center">I'm Interest: Web, Mobile Dev, Coding, Movies, Games, Pop culture and Swimming</h3>
 
