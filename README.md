@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋 Bro!</h1>
-<h3 align="start">I'm Interested: In web, Mobile Dev, Coding, Movies, Games, Pop culture, and Swimming</h3>
+<h1 align="center">Hey there 👋</h1>
 
-- 🌱 Currently I'm learning **Golang**
+<p align="start">
+I'm Nine, a full-stack enthusiast passionate about crafting modern web and mobile applications. Outside of coding, I enjoy watching top-rated IMDb movies & series, immersing myself in story-rich games, exploring pop culture, and swimming to clear my mind.
+</p>
+
+- 🚀 Currently diving deeper into **Golang** to expand my backend toolkit
+- 🎯 Strong interest in **clean code**, **performance optimization**
+- 🧠 Always learning, always building  
   
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks, and Tools I’ve used.</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,js,ts,py,go,html,css,react,nextjs,vite,tailwind,flutter,nodejs,express,prisma&perline=15)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=supabase,mysql,postgres,mongodb,git,github,pnpm,docker,aws,vim&perline=15)](https://skillicons.dev)
