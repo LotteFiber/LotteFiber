@@ -11,8 +11,4 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,js,ts,py,go,html,css,react,nextjs,vite,tailwind,flutter,nodejs,express,prisma&perline=15)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=supabase,mysql,postgres,mongodb,git,github,pnpm,docker,aws,vim&perline=15)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lottefiber&show_icons=true&locale=en&layout=compact" alt="lottefiber" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lottefiber&show_icons=true&locale=en" alt="lottefiber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lottefiber&" alt="lottefiber" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotteFiber&layout=compact&theme=dark) [![GitHub Streak](https://streak-stats.demolab.com?user=LotteFiber&theme=dark&date_format=j%20M%5B%20Y%5D&card_height=170)](https://git.io/streak-stats)
