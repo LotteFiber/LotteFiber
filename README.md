@@ -16,4 +16,4 @@ I'm Nine, a full-stack enthusiast passionate about crafting modern web and mobil
 [![My Skills](https://skillicons.dev/icons?i=figma,js,ts,py,go,html,css,react,nextjs,vite,tailwind,flutter,nodejs,express,prisma&perline=15)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=supabase,mysql,postgres,mongodb,git,github,pnpm,docker,aws,vim&perline=15)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotteFiber&layout=compact&theme=dark) ![LotteFiber's Stats](https://github-readme-stats.vercel.app/api?username=LotteFiber&theme=dark_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotteFiber&layout=compact&theme=dark)
