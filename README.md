@@ -13,7 +13,7 @@ I'm Nine, a full-stack enthusiast passionate about crafting modern web and mobil
 
 <h3 align="left">Languages, Frameworks, and Tools I’ve used.</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,js,ts,cs,java,py,go,html,css,react,nextjs,vite,tailwind,flutter,nodejs&perline=15)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=express,nestjs,dotnet,spring,prisma,supabase,mysql,postgres,mongodb,git,github,pnpm,docker,aws,vim&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,js,ts,cs,py,go,html,css,react,nextjs,vite,tailwind,flutter,nodejs&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,dotnet,prisma,supabase,mysql,postgres,mongodb,git,github,githubactions,pnpm,docker,aws,vim&perline=15)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotteFiber&layout=compact&theme=dark)
